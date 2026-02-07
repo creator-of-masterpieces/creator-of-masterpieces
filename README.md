@@ -1,69 +1,59 @@
-# Привет! 👋
-
-Я — Дмитрий Тимонов, начинающий фронтенд-разработчик, увлечённый созданием современных и отзывчивых веб-приложений.
-
-## 🛠 Навыки
-
-- HTML5, CSS3, JavaScript (ES6+)
-- Git, GitHub
-- Vercel
-
-## 📫 Контакты
-
-- Telegram: [@Kandidat_na_povyshenie](https://t.me/Kandidat_na_povyshenie)
-- Email: timonov.dim13@gmail.com
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=creator-of-masterpieces&show_icons=true&theme=radical)
+# Привет! Я Дмитрий
 
 
-# 🧩 All Projects – Коллекция учебных и пет-проектов
+Frontend‑разработчик, увлечённый созданием доступных интерфейсов. Стремлюсь писать код, который одновременно эффективен и понятен коллегам.
 
-Добро пожаловать в мой фронтенд-репозиторий! Здесь собраны ключевые проекты, созданные во время обучения в Яндекс Практикуме, а также мои собственные инициативы. Этот репозиторий — витрина моего развития как фронтенд-разработчика.
+## Навыки
 
----
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📁 Проекты
+## Опыт и подход
 
-Каждая папка — отдельный завершённый проект с индивидуальной логикой, стилем и функциональностью.
+- Работаю с TypeScript и React для создания поддерживаемых и масштабируемых интерфейсов.
+- Использую Vite и Webpack для оптимизации сборки проектов.
+- Интегрирую макеты из Figma с вниманием к деталям и доступности (a11y).
+- Следую принципам чистого кода и модульной архитектуры.
 
-| Название проекта               | Описание                                               | Ссылка на деплой |
-|-------------------------------|--------------------------------------------------------|------------------|
-| `zakrivayuschiy-teg-f`        | Лендинг с креативной вёрсткой и анимацией              | [Открыть](https://zakrivayuschiy-teg-f.vercel.app) |
-| `mesto-project-ff`            | Фото-социальная сеть: лайки, удаление, попапы          | [Открыть](https://mesto-project-ff.vercel.app) |
-| `slozhno-sosredotochitsya-fd` | Адаптивный лендинг с необычной анимацией               | [Открыть](https://slozhno-sosredotochitsya-fd.vercel.app) |
-| `ono-tebe-nado-fd`            | Лендинг интернет-магазина с интерактивными элементами  | [Открыть](https://ono-tebe-nado-fd.vercel.app) |
-| `posmotri-v-okno-fd`          | Вдохновляющий лендинг с использованием Web API         | [Открыть](https://posmotri-v-okno-fd.vercel.app) |
+Ниже — несколько проектов, демонстрирующих мой подход к разработке.
 
----
+## Проекты
 
-## 🔧 Стек технологий
+### Nimof — сайт мебельного магазина
 
-- **HTML5, CSS3**
-- **JavaScript (ES6+)**
-- **БЭМ (Nested)** – методология CSS
-- **Figma** — точная адаптация макетов
-- **Git/GitHub** — контроль версий и CI/CD
-- **Vercel** — деплой всех проектов
-- **Адаптивная и кроссбраузерная вёрстка**
+**Описание:**  
+SPA‑магазин мебели с каталогом, фильтрацией товаров, формой заявки и интерактивной картой точек продаж (API Яндекс Карт). Разработан на React + TypeScript с Vite.
 
----
+**Ключевые технологии:**  
+- React 18, TypeScript 5, Vite 4  
+- React Router v6  
+- CSS‑модули, адаптивная вёрстка  
+- Интеграция с API Яндекс Карты
 
-## 🎯 Цели и планы
+**Моя роль:**  
+Тим‑лид, проектный менеджер и разработчик. Координировал команду из 3 фронтенд‑разработчиков, отвечал за архитектуру, ключевые фичи и релиз.
 
-- Продолжать развивать проекты на **React**, **TypeScript**, **Next.js**
-- Контрибьютить в open source
-- Создавать production-ready приложения с высокой доступностью
 
----
+**Объём:**  
+- 4 страницы, 16 компонентов  
+- Срок: 1,5 месяца  
 
-## 📫 Контакты
+**Демо:** [nimof.ru](https://nimof.ru)  
+**Код:** [GitHub](https://github.com/creator-of-masterpieces/nimof-furniture-store)
 
-Если хотите предложить сотрудничество или задать вопрос:
+## Со мной можно связаться
 
+- Email: timonov.dim13@gmail.com  
+- Telegram: @Kandidat_na_povyshenie  
 - GitHub: [@creator-of-masterpieces](https://github.com/creator-of-masterpieces)
-- Telegram: `@Kandidat_na_povyshenie`
-- Email: `timonov.dim13@gmail.com`
 
----
+## Дополнительно
 
-⭐️ **Поставьте звезду этому репозиторию, если вам понравилось!**
+- Убеждён, что доступность (a11y) — не опция, а обязательная часть интерфейса.
+- Слежу за трендами в фронтенде: интересуюсь React Server Components, TypeScript 5+, производительностью веб‑приложений.
+- В свободное время участвую в код‑ревью и помогаю новичкам в сообществах.
