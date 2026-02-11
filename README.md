@@ -41,7 +41,6 @@ SPA‑магазин мебели с каталогом, фильтрацией 
 
 **Объём:**  
 - 4 страницы, 16 компонентов  
-- Срок: 1,5 месяца  
 
 **Демо:** [nimof.ru](https://nimof.ru)  
 **Код:** [GitHub](https://github.com/creator-of-masterpieces/nimof-furniture-store)
