@@ -47,9 +47,8 @@ SPA‑магазин мебели с каталогом, фильтрацией 
 
 ## Со мной можно связаться
 
-- Email: timonov.dim13@gmail.com  
-- Telegram: @Kandidat_na_povyshenie  
-- GitHub: [@creator-of-masterpieces](https://github.com/creator-of-masterpieces)
+- Email: timonov.dim13@gmail.com
+- Telegram: @Kandidat_na_povyshenie
 
 ## Дополнительно
 
